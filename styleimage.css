@@ -1,0 +1,39 @@
+.skywatch{
+    height: 500px;
+    width: auto;
+    margin-top: 20px;
+    margin-right : 20px;
+    margin-left: 20px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color : blue;
+}
+td{
+    text-align : center;
+}
+
+.photo{
+    float :left;
+}
+
+.meteo{
+    float: right;
+    margin-right: 30px;
+}
+
+.icone{
+    height: 50px;
+    width: auto;
+    vertical-align: middle;
+}
+
+.caseicone{
+    padding-left: 3px;
+}
+
+.table{
+    width: 100%;
+}
